@@ -28,7 +28,7 @@ This project demonstrates:
 - Frontend animations and UI development  
 
 ## 📸 Preview  
-(Add screenshots here after upload)
+https://fati-810.github.io/Chocolate-App-Landing-Page/
 
 
 ## 📧 Contact  
