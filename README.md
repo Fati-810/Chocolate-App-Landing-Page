@@ -24,10 +24,7 @@ Scroll animations are implemented using:
    
 jQuery is used to support: Scroll Detection and Animation Triggers. 
    
-The design adapts perfectly across:
-   ✅ Mobile  
-   ✅ Tablet  
-   ✅ Desktop  
+The design adapts perfectly across: ✅ Mobile   ✅ Tablet   ✅ Desktop  
 
 ## Preview  
 https://fati-810.github.io/Chocolate-App-Landing-Page/
