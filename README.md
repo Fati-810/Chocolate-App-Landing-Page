@@ -13,11 +13,19 @@ This project is a **fully responsive** and **pixel-perfect** conversion of a PSD
 🔗 Footer with social icons 
 
 ## Technical Overview:
-- **HTML5** – Semantic page structure  
-- **CSS3** – Styling, layout, responsiveness  
-- **Animate.css** – Smooth entrance animations  
-- **WOW.js** – Scroll-based animation trigger  
-- **JavaScript (jQuery)** – Interactivity & animations  
+
+The page structure is built using **HTML5 semantic sections**
+Layout and responsiveness are handled using **custom CSS**
+Scroll animations are implemented using:
+   `animate.css`
+   `WOW.js`
+jQuery is used to support:
+   Scroll detection  
+   Animation triggers  
+ The design adapts perfectly across:
+   ✅ Mobile  
+   ✅ Tablet  
+   ✅ Desktop  
 
 ## Preview  
 https://fati-810.github.io/Chocolate-App-Landing-Page/
