@@ -14,19 +14,17 @@ This project is a **fully responsive** and **pixel-perfect** conversion of a PSD
 
 ## Technical Overview:
 
-The page structure is built using **HTML5 semantic sections**
+The page structure is built using **HTML5 semantic sections**.
 
-Layout and responsiveness are handled using **custom CSS**
+Layout and responsiveness are handled using **custom CSS**.
 
 Scroll animations are implemented using:
    `animate.css`
    `WOW.js`
    
-jQuery is used to support:
-   Scroll Detection  
-   Animation Triggers  
+jQuery is used to support: Scroll Detection and Animation Triggers. 
    
- The design adapts perfectly across:
+The design adapts perfectly across:
    ✅ Mobile  
    ✅ Tablet  
    ✅ Desktop  
