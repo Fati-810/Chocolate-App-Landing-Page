@@ -12,7 +12,7 @@ This project is a **fully responsive** and **pixel-perfect** conversion of a PSD
 🎯 Call-to-action section  
 🔗 Footer with social icons 
 
-## Technical Overview:
+## Technical Overview: (Behind the Scenes)
 
 The page structure is built using **HTML5 semantic sections**.
 
