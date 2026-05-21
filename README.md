@@ -26,11 +26,11 @@ jQuery is used to support: Scroll Detection and Animation Triggers.
    
 The design adapts perfectly across: ✅ Mobile   ✅ Tablet   ✅ Desktop  
 
-## Preview  
+## Preview: 
 https://fati-810.github.io/Chocolate-App-Landing-Page/
 
 
-## Contact  
+## Contact: 
 If you'd like to see more of my work, connect with me through my portfolio:
 
 **Developer:** *Fatimah Ali*  
@@ -38,5 +38,5 @@ If you'd like to see more of my work, connect with me through my portfolio:
 **GitHub:** github.com/fati-810
 
 
-## 📜 License  
+## License:  
 This project is for educational and portfolio purposes.
