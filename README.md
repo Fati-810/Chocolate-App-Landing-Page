@@ -22,7 +22,7 @@ Scroll animations are implemented using:
    `animate.css`
    `WOW.js`
    
-jQuery is used to support: Scroll Detection and Animation Triggers. 
+**jQuery** is used to support: Scroll Detection and Animation Triggers. 
    
 The design adapts perfectly across: ✅ Mobile   ✅ Tablet   ✅ Desktop  
 
