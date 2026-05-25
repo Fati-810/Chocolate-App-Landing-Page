@@ -4,13 +4,13 @@
 This project is a **fully responsive** and **pixel-perfect** conversion of a PSD design into a functional HTML landing page. The theme is based on a chocolate/dessert mobile application concept.
 
 ##  Features:
-🎨 Clean and Modern UI  
-📱 Fully Responsive Layout  
-✨ Smooth scroll animations  
+🎨 Clean and Modern UI.  
+📱 Fully Responsive Layout.  
+✨ Smooth scroll animations.  
 🖼️ Hero section with app preview  
-📊 Features section (3-column layout)  
-🎯 Call-to-action section  
-🔗 Footer with social icons 
+📊 Features section (3-column layout).  
+🎯 Call-to-action section.  
+🔗 Footer with social icons. 
 
 ## Technical Overview: (Behind the Scenes)
 
