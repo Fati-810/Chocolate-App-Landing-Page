@@ -34,8 +34,8 @@ https://fati-810.github.io/Chocolate-App-Landing-Page/
 If you'd like to see more of my work, connect with me through my portfolio:
 
 **Developer:** *Fatimah Ali*  
-**Website:** fatimahdigitaledge.com  
-**GitHub:** github.com/fati-810
+**Website:** https://fatimahdigitaledge.com  
+**GitHub:** https://github.com/fati-810
 
 
 ## License:  
